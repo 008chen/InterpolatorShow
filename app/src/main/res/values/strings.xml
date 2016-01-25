@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">InterpolatorDebugger</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="interpolator_titles">
+        <item>Linear Interpolator</item>
+        <item>Accelerate Interpolator</item>
+        <item>Decelerate Interpolator</item>
+        <item>Accelerate Decelerate Interpolator</item>
+        <item>Anticipate Interpolator</item>
+        <item>Bounce Interpolator</item>
+        <item>Cycle Interpolator(0.5f)</item>
+        <item>Overshoot Interpolator</item>
+        <item>Anticipate Overshoot Interpolator</item>
+    </string-array>
+
+    <string-array name="interpolator_contents">
+        <item>线性插值器</item>
+        <item>加速插值器</item>
+        <item>减速插值器</item>
+        <item>加速减速插值器</item>
+        <item>回荡秋千插值器</item>
+        <item>弹跳插值器</item>
+        <item>正弦周期变化插值器(0.5f)</item>
+        <item>Overshoot Interpolator</item>
+        <item>Anticipate Overshoot Interpolator</item>
+    </string-array>
+</resources>
